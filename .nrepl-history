@@ -1,0 +1,13 @@
+boot
+target
+(target)
+cljs
+(cljs (target))
+ (target))
+(comp (cljs) (target))
+#(comp (cljs) (target))
+'(comp (cljs) (target))
+(comp (cljs) (target))
+(-> (cljs) (target))
+(cljs)
+(target)
